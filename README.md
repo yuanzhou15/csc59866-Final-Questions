@@ -1,5 +1,6 @@
 # csc59866-Final-Questions
-
+Yuan Zhou
+#### The multiple/T&F questions are in README, while the coding questions are in the jupyer notebook file. 
 ### Multiple choice:
 
 Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques (mostly graphical) to ?
